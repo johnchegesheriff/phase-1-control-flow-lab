@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2024-07-07T07:16:33.881Z",
-    "end": "2024-07-07T07:16:34.858Z",
-    "duration": 977
+    "start": "2024-07-24T12:00:58.680Z",
+    "end": "2024-07-24T12:01:00.154Z",
+    "duration": 1474
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "charges 30 dollars for a distance over 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 30 dollars for a distance over 2000 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,21 +55,21 @@
     {
       "title": "should return \"Thank you so much.\" if the tip is generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you so much.\" if the tip is generous",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -94,7 +94,7 @@
     {
       "title": "charges 30 dollars for a distance over 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 30 dollars for a distance over 2000 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -122,21 +122,21 @@
     {
       "title": "should return \"Thank you so much.\" if the tip is generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you so much.\" if the tip is generous",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Thank you.\" if the tip is not as generous",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Thank you.\" if the tip is not as generous",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
